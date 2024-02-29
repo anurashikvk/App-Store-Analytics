@@ -30,4 +30,4 @@ To run this project, ensure you have the following dependencies installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/anurashikvk/AppStoreAnalytics.git
+git clone https://github.com/anurashikvk/App-Store-Analytics
