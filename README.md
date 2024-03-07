@@ -18,16 +18,19 @@ This project focuses on analyzing and visualizing data from the Google Play Stor
 4. **Plotly Visualizations:**
    - Create compelling visualizations using the Plotly library to represent key metrics.
 
-## Installation
+## Project Files
 
-To run this project, ensure you have the following dependencies installed:
+## **Dataset**
+   - We have included a new dataset file, data.csv, which contains the raw data for the Google Play Store analysis.
 
-- Python 3
-- Jupyter Notebook
-- Pandas
-- Plotly
+## **Jupyter Notebooks**
+   
+1. **Practice Notebook**
+   - Start your exploration with the Google Play Store App Analytics (start).ipynb notebook, which includes a set of practice questions for users to engage with and understand the analysis process.
 
-Clone the repository to your local machine:
+2. **Completed Notebook**
+   - For users who prefer to skip the analysis and explore the completed results directly, we have included Google_Play_Store_App_Analytics_(complete).ipyn. This notebook showcases the solutions to the practice questions and serves as a reference for users 
+     interested in the final outcomes.
 
 ```bash
 https://github.com/anurashikvk/App-Store-Analytics
